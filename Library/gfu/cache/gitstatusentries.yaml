@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-03-30T20:27:37.744+01:00
+  lastUpdatedAtString: 2019-03-30T20:27:52.938+01:00
   initializedAtString: 2019-03-30T20:22:32.226+01:00
   entries:
   - path: .vs\TechTown\v15\.suo
@@ -980,7 +980,7 @@ MonoBehaviour:
     fullPath: C:\Users\zzWee\TechTown\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\zzWee\TechTown\Library\gfu\cache\gitlocks.yaml
@@ -998,7 +998,7 @@ MonoBehaviour:
     fullPath: C:\Users\zzWee\TechTown\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\zzWee\TechTown\Library\gfu\cache\gittrackingstatus.yaml

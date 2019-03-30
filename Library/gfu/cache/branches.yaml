@@ -13,10 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-03-30T20:26:05.591+01:00
+  lastUpdatedAtString: 2019-03-30T20:28:39.210+01:00
   initializedAtString: 2019-03-30T20:26:05.558+01:00
-  localBranches: []
-  remoteBranches: []
+  localBranches:
+  - name: master
+    tracking: origin/master
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/zzWeeZz69/TechTown.git
@@ -26,12 +30,27 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/zzWeeZz69/TechTown.git
+      trackingBranch: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/zzWeeZz69/TechTown.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
